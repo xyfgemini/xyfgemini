@@ -1,16 +1,13 @@
-## Welcome to my Github Profile!
+## Welcome to my Research Interests
+
+My current passion revolves around Efficient AI computing:
+
+- Efficient ML Algorithms(i.e.:DNNs、LLMs)
+- Effective Algorithm-System(i.e.:framework、Inference-engine、kernel library、compiler) co-design
+- Flexible Algorithm-Architecture(i.e.:GPU、DSA) co-design
 
 
-<!--
-**xyfgemini/xyfgemini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-## 📫 You can reach me at xyf2576131943@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📫 You can reach me at xyf2576131943@gmail.com
