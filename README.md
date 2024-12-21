@@ -5,7 +5,7 @@
 My current passion revolves around Efficient AI computing:
 
 - Efficient ML Algorithms(i.e.:DNNs、LLMs)
-- Effective Algorithm/System(i.e.:framework、Inference-engine、kernel library、compiler) co-design
+- Efficient System(i.e.:framework、Inference-engine、kernel library、compiler) optimizations
 - Flexible Algorithm/Architecture(i.e.:GPU、DSA) co-design
 
 
