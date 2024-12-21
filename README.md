@@ -1,4 +1,6 @@
-## Welcome to my Research Interests
+# Welcome to my Github Profile!
+
+## Research Interests
 
 My current passion revolves around Efficient AI computing:
 
