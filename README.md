@@ -18,7 +18,7 @@ My current passion revolves around Efficient AI computing:
 
 
 
-# Statics
+# Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyfgemini&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
