@@ -1,6 +1,6 @@
 # Welcome to my Github Profile!
 
-## Research Interests (Rookie:sweat_smile:)
+## Research Interests 
 
 My current passion revolves around Efficient AI computing:
 
