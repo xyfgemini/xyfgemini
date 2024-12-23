@@ -2,15 +2,14 @@
 
 ## Research Interests 
 
-My current passion revolves around Efficient AI computing:
+My current passion revolves around Efficient MLSys: 
 
-- Efficient ML Algorithms(towards LLMs) 
+- Algorithms: LLMs 
+- System: framework、Inference-engine、kernel library、compiler
 
-- Efficient System(i.e.:framework、Inference-engine、kernel library、compiler) optimizations
+- Hardware: XPU (Micro-)Architecture
 
-- Flexible Algorithm/Architecture(i.e.:GPU、DSA) co-design
 
-	
 
 # Contact
 
