@@ -2,12 +2,7 @@
 
 ## Research Interests 
 
-My current passion revolves around Efficient MLSys: 
-
-- Algorithms: LLMs 
-- System: framework、Inference-engine、kernel library、compiler
-
-- Hardware: XPU (Micro-)Architecture
+My current passion revolves around Efficient MLSys (LLMs, Diffusion model)
 
 
 
