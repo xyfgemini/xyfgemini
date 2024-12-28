@@ -2,7 +2,7 @@
 
 ## Research Interests 
 
-My current passion revolves around Efficient MLSys (LLMs, Diffusion model)
+My current passion revolves around MLSys(efficient LLM Inference)
 
 
 
