@@ -2,7 +2,7 @@
 
 ## Research Interests 
 
-My current passion revolves around MLSys(Efficient LLM Inference)
+My current passion revolves around MLSys(Efficient LLM Inference、XPU Micro-Arch)
 
 
 
