@@ -3,8 +3,8 @@
 ## Research Interests 
 
 My current passion revolves around MLSys
-> Efficient LLM Inference(model & system)
-> XPU Micro-Arch
+Efficient LLM Inference(model & system)
+XPU Micro-Arch
 
 
 
