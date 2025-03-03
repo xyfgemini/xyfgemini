@@ -1,6 +1,6 @@
 # Welcome to my Github Profile!
 
-I’m a prospective post-graduate in [@NKU](https://cc.nankai.edu.cn/)
+I’m a prospective post-graduate in [NKU](https://cc.nankai.edu.cn/) [ICSLab](https://ics.nankai.edu.cn/)
 
 ## Research Interests 
 
