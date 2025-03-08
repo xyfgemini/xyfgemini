@@ -4,7 +4,7 @@
 
 # Research Interests
 
-My current passion revolves around MLSys, mainly focusing on LLM、XPU micro-arch
+My current passion revolves around MLSys
 
 
 
