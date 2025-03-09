@@ -1,6 +1,4 @@
-# Welcome to my Github Profile!
-
-
+# Hi there ! :open_hands:
 
 # Research Interests
 
