@@ -1,15 +1,5 @@
 # Hi there ! :open_hands:
 
-# Research Interests
-
-My current passion revolves around MLSys
-
-
-
-# Contact
-
-📫 You can reach me at xyf2576131943@gmail.com
-
 
 
 # Stats
